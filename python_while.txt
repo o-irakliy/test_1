@@ -12,3 +12,6 @@ while n > 0:
     n = n // 10
     if 10 > n > 0:
         first_digit += n
+
+
+made changes for test
