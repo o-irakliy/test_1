@@ -12,9 +12,3 @@ while n > 0:
     n = n // 10
     if 10 > n > 0:
         first_digit += n
-print(sum_digits) 
-print(count_digits)
-print(total_digits)
-print(sum_digits / count_digits)
-print(first_digit)
-print(last_digit + first_digit)
